@@ -45,15 +45,15 @@ export default function IntroSlide() {
             <ul className="space-y-3 text-base">
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Maîtriser la technique du microblading</span>
+                <span>Comprendre les différences entre microblading, microshading et hybride</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Réaliser un microshading parfait</span>
+                <span>Découvrir les outils et matériaux de base</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Combiner les techniques en hybride</span>
+                <span>Identifier les types de sourcils et morphologies</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
@@ -61,7 +61,7 @@ export default function IntroSlide() {
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Respecter les règles de sécurité</span>
+                <span>Connaître les règles d'hygiène et de sécurité</span>
               </li>
             </ul>
           </div>
