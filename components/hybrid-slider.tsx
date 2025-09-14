@@ -75,14 +75,7 @@ export default function HybridSlider() {
   }, [isDragging])
 
   return (
-    <div>
-      <div className="w-full">
-        <div className="text-center mb-4">
-          <h3 className="text-black text-xl font-semibold mb-2">HYBRID</h3>
-          <p className="text-black text-lg font-medium mb-4">
-            On mélange les deux - des poils devant + du maquillage derrière.
-          </p>
-        </div>
+    
 
         <div
           ref={containerRef}
