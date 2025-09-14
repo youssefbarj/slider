@@ -80,7 +80,7 @@ export default function MicroshadingSlider() {
         <div className="text-center mb-4">
           <h3 className="text-black text-xl font-semibold mb-2">MICROSHADING</h3>
           <p className="text-black text-lg font-medium mb-4">
-            "On met de la couleur partout avec des petits points. Ça ressemble à du maquillage permanent."
+            On met de la couleur partout avec des petits points. Ça ressemble à du maquillage permanent.
           </p>
         </div>
 
