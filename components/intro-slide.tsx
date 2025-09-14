@@ -45,7 +45,7 @@ export default function IntroSlide() {
             <ul className="space-y-3 text-base">
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
-                <span>Comprendre les différences entre microblading, microshading</span>
+                <span>Comprendre les différences entre microblading et microshading</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-slate-800 rounded-full mt-2 flex-shrink-0"></div>
