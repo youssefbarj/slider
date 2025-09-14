@@ -79,6 +79,7 @@ export default function MicrobladingSlider() {
       <div className="w-full">
         <div className="text-center mb-4">
           <h3 className="text-black text-xl font-semibold mb-2">MICROBLADING</h3>
+          {/* Removed the description paragraph */}
           <p className="text-black text-base font-medium flex items-center justify-center gap-2">
             Faites glisser vers la droite pour voir la transformation
             <span className="inline-block animate-pulse">
