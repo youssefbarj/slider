@@ -75,7 +75,11 @@ export default function HybridSlider() {
   }, [isDragging])
 
   return (
-    
+    <div>
+      <div className="w-full">
+        <div className="text-center mb-4">
+          <h3 className="text-black text-xl font-semibold mb-2">HYBRID</h3>
+        </div>
 
         <div
           ref={containerRef}
